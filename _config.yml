@@ -1,11 +1,11 @@
-title: Katherine Tomalá # your name (or website title) here
+title: Katherine Tomalá
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hello! I am Katherine Tomalá, a Data Analyst with a strong focus on developing data analysis skills. I am self-taught, organized and able to work as a team and independently. I master key tools such as Python, R, Tableau, Power BI and SQL, agile methodologies, in addition to participating in the Data Science and Artificial Intelligence Bootcamp at Ucamp. My training in Economics and proficiency in Spanish and English give me a solid foundation in analysis and problem solving. I am excited for opportunities to apply these skills. 
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/katherine-tomala">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
